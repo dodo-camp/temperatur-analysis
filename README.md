@@ -6,3 +6,4 @@
 6) browse tour json file which is THERM0001.json
 7) data will be saved to db and real time saved data count will be shown
 8) after saving each data it will move you to analysis page and bring last 3 years data and makes a bar chart.
+
